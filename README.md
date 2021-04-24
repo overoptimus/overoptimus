@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 ## 个人信息
 
 - 常江/男（1997.03.02）
-- 硕士研究生一年级/中北大学/计算机技术（大数据与网络安全）
+- 硕士研究生二年级/中北大学/计算机技术（大数据与网络安全）
 - Email：cj1040570917@gmail.com
 - Tel：19834400802
 - 0pt1mus(博客)：[个人](https://superj.site) 、[CSDN](https://blog.csdn.net/weixin_43713800)
