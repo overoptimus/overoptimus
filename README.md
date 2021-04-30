@@ -13,8 +13,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-# 常江简历
-
 ## 个人信息
 
 - 常江/男（1997.03.02）
@@ -84,4 +82,4 @@ Here are some ideas to get you started:
 
 热爱网络安全技术，能够自我驱动，对新问题充满好奇，为人热心、负责。
 
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=overoptimus)](https://github.com/anuraghazra/github-readme-stats)
